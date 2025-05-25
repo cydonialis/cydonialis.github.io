@@ -1,0 +1,4 @@
+baseURL = 'https://cydonialis.github.io/'
+languageCode = 'zh-cn'
+title = 'Yadong blog'
+theme = 'PaperMod'
